@@ -15,7 +15,7 @@
         $serverName = "tcp:s18.winhost.com,1433";  
     //    
 	$connectionOptions =   
-           array("UID"=>"DB_97863_as_user", "PWD"=>"Greendream3", "DATABASE"=>"DB_97863_as");  
+           array("UID"=>"DB_97863_as_user", "PWD"=>"uh..uh..uh", "DATABASE"=>"DB_97863_as");  
         $conn = sqlsrv_connect( $serverName, $connectionOptions);
             if ($conn == true) 
 			   {  
